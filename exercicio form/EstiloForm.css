@@ -1,0 +1,88 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+div {
+    border: 3px;
+    width: 400vw;
+    background: rgb(253, 253, 253);
+    display: inline-block;
+    
+}
+#div1 {
+    width: 45vw;
+    padding: 10px;
+    display: inline-block;
+}
+#div2 {
+    background-color:white;
+    height: 40px;
+    width: 100px;
+    font-family: Arial;
+    color: hsl(46, 100%, 50%);
+    width: 100vw;
+    padding: 10px;
+    display: inline-block;
+}
+form {
+    font-size: 20px;
+    max-width: 400px;
+    border-color:#f7aa04;
+}
+.desenho {
+    margin-left: 0px;  
+    width: 5%;
+}
+h1 {
+    margin-bottom: 20px;
+    margin-left: 20px;    
+    
+}
+h4 {
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
+input, textarea {
+    width: 400px;
+    padding: 10px;
+    color: #ffbc03;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 3px solid;
+}
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: #ffbc03;
+    box-shadow: 5px 0px 9px hsl(46, 100%, 50%);
+    font-weight: bold;
+    color: black;
+}
+
+.enviar {
+    background-color:white;
+    height: 40px;
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 3px solid;
+    color: hsl(46, 100%, 50%);
+
+}
+
+textarea {
+    width: 400px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+}
+
+form label {
+    margin-left: 20px;
+    color: #070707;  
+}

@@ -1,0 +1,134 @@
+<style>
+.retangulo {
+width: 100vw;
+height: 80vh;
+background: #ebfc01;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center
+}
+.logo {
+  
+    width: 100%;
+  
+}
+.foto {
+    border-radius: 0%;
+    margin-top: 50px;
+    margin-left: 70px;
+    width: 100%;
+    width: 25%;
+}
+.caixa1 {
+    border: 3px solid rgb(248, 3, 3);
+    border-radius: 20px;
+    width: 100vw;
+    height: 80vh;
+    background: rgb(251, 251, 252);
+}
+.caixa2 {
+    border: 3px solid rgb(3, 248, 64);
+    border-radius: 20px;
+    width: 100vw;
+    height: 60vh;
+    background: rgb(253, 253, 253);
+}
+.caixa3 {
+    border: 3px solid rgb(141, 5, 252);
+    border-radius: 20px;
+    width: 100vw;
+    height: 60vh;
+    background: rgb(251, 252, 252);
+    
+   
+}
+
+div {
+    border: 3px solid rgb(0, 0, 5);
+    
+    margin-left: 10px;
+    width: 46vw;
+    height: 30vh;
+    padding: 10px;
+    background: rgb(253, 253, 253);
+    display: inline-block;
+    
+}
+#div1 {
+    margin-top:130px;
+    display: inline-block;
+    padding: 10px;
+    input[type=text] {
+      }     
+    }
+    
+#div2 {
+  margin-bottom: 0px;
+    padding: 10px;
+    display: inline-block;
+}
+body {
+margin: 0px;
+}
+form {
+  font-size: 20px;
+  max-width: 300px;
+  border-color: black;
+}
+input, textarea {
+  width: 455px;
+  padding: 10px;
+  color: black;
+  margin-left: 20px;
+  margin-top: 10px;
+  border: 3px solid;
+}
+
+
+.enviar {
+  margin-left: 350px;
+  background-color:white;
+  border-color: black;
+  text-align: center;
+  height: 40px;
+  width: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border: 3px solid currentColor:#070707;
+  color: hsl(0, 100%, 50%);
+
+}
+
+textarea {
+  width: 400px;
+  height: 120px;
+  line-height: 20px;
+  max-width: 400px;
+}
+
+form label {
+  margin-left: 20px;
+  color: #070707;  
+}
+/*  link não visitado*/
+a:link {
+    color:blue;
+  }
+  
+  /* link visitado*/
+  a:visited {
+    color:red;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* link selecionado*/
+  a:active {
+    color: green;
+  }
+
+</style>

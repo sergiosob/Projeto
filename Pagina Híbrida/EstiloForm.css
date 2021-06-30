@@ -9,14 +9,14 @@ div {
     display: inline-block;
     
 }
-#div1 {
+#divf1 {
     width: 45vw;
     padding: 10px;
     display: inline-block;
 }
-#div2 {
+#divf2 {
     background-color:white;
-    height: 40px;
+    height: 80px;
     width: 100px;
     font-family: Arial;
     color: hsl(46, 100%, 50%);

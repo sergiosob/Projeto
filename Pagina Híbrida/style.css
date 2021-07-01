@@ -19,7 +19,9 @@ align-items: center
     margin-left: 70px;
     width: 100%;
     width: 25%;
+    
 }
+
 .caixa1 {
     border: 3px solid rgb(248, 3, 3);
     border-radius: 20px;
@@ -38,12 +40,11 @@ align-items: center
     border: 3px solid rgb(141, 5, 252);
     border-radius: 20px;
     width: 100vw;
-    height: 105vh;
+    height: 115vh;
     background: rgb(251, 252, 252);
-    
-   
 }
 
+   
 div {
     border: 3px solid rgb(0, 0, 5);
     
@@ -134,5 +135,8 @@ a:link {
   a:active {
     color: green;
   }
+
+
+
 
 </style>
